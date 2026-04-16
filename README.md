@@ -1,16 +1,21 @@
-## Hi there 👋
+### Привет! Я Максим Горячев 👋
 
-<!--
-**maximum1975-sketch/Maximum1975-Sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **Full-Stack AI / ML Engineer** с инженерным образованием (МГТУ им. Баумана) и более чем 20-летним опытом управления бизнес-процессами и IT-инфраструктурой. 
 
-Here are some ideas to get you started:
+Я перешел в машинное обучение, потому что люблю создавать сложные продукты своими руками. Объединяю глубокое понимание бизнеса (PnL, риск-менеджмент, системный анализ) с современными технологиями.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Что я умею:**
+* **Machine Learning & AI:** RAG-архитектуры, LLM, LangChain, Computer Vision (YOLO, SAM-2), Time Series Analysis (XGBoost, CatBoost, LSTM).
+* **Engineering:** Python, FastAPI, Uvicorn, SQL, FAISS, Git.
+* **Production:** Создание Telegram-ботов (Aiogram), веб-интерфейсов (Streamlit), интеграция API, асинхронные высоконагруженные серверы (HFT).
+
+💼 **Мои ключевые проекты:**
+* ⚖️ **[Neurojurist ФЗ-229](https://github.com/Maximum1975-Sketch/neurojurist-fz229-bot)** — RAG-система с голосовым вводом (Whisper) и трехшаговым пайплайном, исключающим галлюцинации LLM.
+* 📈 **NeuroTrader** — ML-система для HFT торговли с Event-Based Structural Labeling и кастомным парсером на базе алгоритма Sparse Tables.
+* 🐔 **AgroTech CV** — End-to-end CV пайплайн для трекинга объектов (подсчет птиц) с отсевом аномалий.
+
+📫 **Как со мной связаться:**
+- +74957773330
+- Email: maximum@mail.ru
+- tg: @okey_people
+- Открыт к позициям ML Engineer / AI Resecher&Developer.
