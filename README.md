@@ -1,29 +1,38 @@
-### Привет! Я Максим Горячев 👋
+# 👋 Привет! Я Максим Горячев
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain" alt="LangChain">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" alt="OpenCV">
+  <br>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</p>
 
-Я строю **End-to-End AI-системы**, решая сложные бизнес-задачи с помощью математики, алгоритмов и машинного обучения. У меня фундаментальное техническое образование (МГТУ им. Баумана) и более 20 лет опыта управления IT-инфраструктурой и бизнес-процессами.
+Я **Full-Stack AI / ML Engineer** и **Vibe Coder** нового поколения.
 
-Я **Vibe Coder** нового поколения с инженерным образованием (МГТУ им. Баумана) и более чем 20-летним опытом управления бизнес-процессами и IT-инфраструктурой: выступаю в роли Архитектора, который проектирует логику, структуры данных и бизнес/фин/тех-требования, активно используя AI-помощников для кратного ускорения написания production-кода. Это позволяет мне двигаться от идеи до готового продукта за считанные дни.
+У меня фундаментальное техническое образование (МГТУ им. Баумана) и более 20 лет опыта управления бизнес-процессами и IT-инфраструктурой. Я перешел в машинное обучение, потому что люблю создавать сложные продукты с нуля до выхода в продакшн своими руками. Объединяю глубокое понимание бизнеса (PnL, риск-менеджмент, системный анализ) с современными технологиями.
 
-Я **Full-Stack AI / ML Engineer**.
-
-Я перешел в машинное обучение, потому что люблю создавать продукты c нуля до выхода в продакшн своими руками. Объединяю глубокое понимание бизнеса (PnL, риск-менеджмент, системный анализ) с современными технологиями.
+Я выступаю в роли Архитектора: проектирую логику, алгоритмы, структуры данных и бизнес-требования, активно используя AI-помощников для кратного ускорения написания production-кода. Это позволяет мне двигаться от идеи до готового продукта за считанные дни.
 
 🛠 **Что я умею:**
-* **Machine Learning & AI:** RAG-архитектуры, LLM, LangChain, Computer Vision (YOLO, SAM-2), Time Series Analysis (XGBoost, CatBoost, LSTM),  Big Data и Feature Engineering.
+* **Machine Learning & AI:** RAG-архитектуры, LLM, LangChain, Computer Vision (YOLO, SAM-2), Time Series Analysis (XGBoost, CatBoost, LSTM), Big Data и Feature Engineering.
 * **Engineering:** Python, FastAPI, Uvicorn, SQL, FAISS, Git.
 * **Production:** Создание Telegram-ботов (Aiogram), веб-интерфейсов (Streamlit), интеграция API, асинхронные высоконагруженные серверы (HFT).
 * **ИИ-агенты:** HR, Аналитика, Юристы, Поддержка для организаций и индивидуальные ИИ-помощники **"под заказ"** для боссов и сотрудников.
 
+---
+
 ## 💼 Ключевые проекты, выполненные одними руками
 
-### ⚖️ [Нейроюрист по ФЗ-229 "Об исполнительном производстве"](https://github.com/Maximum1975-Sketch/neurojurist-fz229-bot)
-Полноценный AI-ассистент с **голосовым вводом (Whisper)** для юридических консультаций — RAG-система с голосовым вводом (Telegram-bot)) и многошаговым пайплайном, включая **LLM-as-judge**, исключающим галлюцинации LLM.
-* **Архитектура:** LangChain + FAISS + Qwen3 (Local LLM) + Async Telegram Bot. + рабочий вариант для контура без выхода в интернет.
+### ⚖️[Нейроюрист по ФЗ-229 "Об исполнительном производстве"](https://github.com/Maximum1975-Sketch/neurojurist-fz229-bot)
+Полноценный AI-ассистент с **голосовым вводом (Whisper)** для юридических консультаций — RAG-система в виде Telegram-бота с многошаговым пайплайном, включая **LLM-as-judge**, исключающим галлюцинации LLM.
+* **Архитектура:** LangChain + FAISS + Qwen3 (Local LLM) + Async Telegram Bot (имеется рабочий вариант для изолированного контура без выхода в интернет).
 * **Фишка:** Нулевой уровень галлюцинаций за счет 3-шагового пайплайна (Анализ → Генерация → Валидатор) и структурного парсинга федерального закона.
 
 ### 📈 NeuroTrader (ML HFT System)
@@ -35,16 +44,18 @@
 ### 🐔 AgroTech CV Tracker
 End-to-end Computer Vision пайплайн для трекинга объектов (подсчет цыплят на птицефабрике) с 99% точностью и отсевом аномалий.
 * **Стек:** YOLO + SAM-2 + OpenCV + Streamlit.
-* Реализована математическая логика фильтрации "фантомных" треков и интерфейс для конечного пользователя. Технологический контур без выхода в интернет.
+* Реализована математическая логика фильтрации "фантомных" треков и интерфейс для конечного пользователя. 
 
 ### 💱 Crypto Arbitrage Bot
-Высокочастотный бот на PHP для межбиржевого арбитража (Binance / *). Асинхронный опрос стаканов, учет комиссий и управление ликвидностью. Бот работал с плюсовым PnL на реальных средствах.
+Высокочастотный бот на PHP для межбиржевого арбитража. Асинхронный опрос стаканов, учет комиссий и управление ликвидностью. Бот работал с плюсовым PnL на реальных средствах.
 
-🚀 **Что я могу:** воплотить любой проект автоматизации на любой известной платформе (windows, linux, mac os), и даже НЕ имеющей доступа в интернет **(!)**, будь то корпоративный сервер или ноутбук руководителя.
+---
+
+🚀 **Что я могу:** воплотить любой проект автоматизации на любой известной платформе (Windows, Linux, macOS), в том числе для изолированных систем без доступа в интернет **(!)**, будь то корпоративный сервер или локальный ноутбук руководителя.
 
 📫 **Как со мной связаться:**
-- Telegram: [@okey_people](https://t.me/okey_people) (предпочтительный способ связи)
-- Email: maxim@goryachev.ru
-- Телефон: +7 (925) 781-94-22
-- Локация: Москва. Готов к командировкам
-- Открыт к позициям ML Engineer / AI Reseacher&Developer или проектным работам с нуля до продакшна.
+* Telegram: [@okey_people](https://t.me/okey_people) (предпочтительный способ связи)
+* Email:[maxim@goryachev.ru](mailto:maxim@goryachev.ru)
+* Телефон: +7 (925) 781-94-22
+* Локация: Москва. Готов к командировкам.
+* Открыт к позициям **ML Engineer / AI Researcher & Developer** или проектным работам с нуля до продакшна.
