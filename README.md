@@ -8,6 +8,7 @@
 * **Machine Learning & AI:** RAG-архитектуры, LLM, LangChain, Computer Vision (YOLO, SAM-2), Time Series Analysis (XGBoost, CatBoost, LSTM).
 * **Engineering:** Python, FastAPI, Uvicorn, SQL, FAISS, Git.
 * **Production:** Создание Telegram-ботов (Aiogram), веб-интерфейсов (Streamlit), интеграция API, асинхронные высоконагруженные серверы (HFT).
+* **ИИ-агенты:** HR, Аналитика, Юристы, Поддержка для организаций и индивидуальные ИИ-помощники **"под заказ"** для руководителей и сотрудников.
 
 💼 **Мои ключевые full-stack проекты:**
 * ⚖️ **[Нейроюрист по ФЗ-229 "Об исполнительном производстве"](https://github.com/Maximum1975-Sketch/neurojurist-fz229-bot)** — RAG-система с голосовым вводом (Telegram-bot + Whisper) и многошаговым пайплайном, исключающим галлюцинации LLM.
