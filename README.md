@@ -78,4 +78,4 @@ End-to-end Computer Vision пайплайн для трекинга объект
 * Email:[ai@goryachev.ru](mailto:ai@goryachev.ru)
 * Телефон: +7 (925) 781-94-22
 * Локация: Москва. Готов к командировкам.
-* Открыт к позициям **ML Engineer / AI Researcher & Developer** или проектным работам с нуля до продакшна.
+* Открыт к позициям **ML Engineer / AI Researcher & Developer** или проектным работам с нуля до продакшена.
